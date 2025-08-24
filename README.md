@@ -34,10 +34,10 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
-  <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/sas-1.svg" alt="sas" width="40" height="40"/> 
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.stata.com/includes/images/stata-logo-blue.png" alt="stata" width="80" height="40"/> 
   </a> 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matlab.svg" alt="matlab" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
 </p>
